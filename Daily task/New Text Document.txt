@@ -11,7 +11,7 @@
 
        wooden table :
 
-        - water intolerance : it swallows wooden
+        - water intolerance : it swollens wooden
         - finishing on surface : it will cause injury
         - edges : if not proper it will cause uneasiness and even injuries
         - fire : it cathes fire easily
@@ -44,6 +44,18 @@
        - Strips : If it will loose or cut down it will cause problems
        - weight: heavy chair will difficult to carry
        - chair board : too much heavy to carry
+      wooden :
+       - insects : that needs high maintenance
+       - water intolerance : it will cause swollen wood
+       - surface : if not it will result in injuries
+       
+     plastic:
+       - material: material can be spoil due to sunlight
+       - easily crack: light weight material can easily crack
+
+     metal: 
+       - rust : rust can damage the chair
+       - heavy weight : difficult to carry
 
   
 
