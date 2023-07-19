@@ -57,6 +57,14 @@
        - rust : rust can damage the chair
        - heavy weight : difficult to carry
 
+                          3) DOOR
+
+- Height : if not proper it will create problem
+- Weight : heavyb weight will be difficult to carry
+- Frame : Frame size  should be appropriate for door size
+- lock :
+  
+
   
 
        
