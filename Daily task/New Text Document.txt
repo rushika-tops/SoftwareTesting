@@ -62,7 +62,8 @@
 - Height : if not proper it will create problem
 - Weight : heavyb weight will be difficult to carry
 - Frame : Frame size  should be appropriate for door size
-- lock :
+- lock : if lock mechanism is not working that will create problem
+-
   
 
   
